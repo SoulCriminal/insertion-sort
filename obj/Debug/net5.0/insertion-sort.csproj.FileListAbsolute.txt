@@ -1,0 +1,15 @@
+/Users/hakkiayman/Desktop/VisualStudioCode/insertion-sort/bin/Debug/net5.0/insertion-sort.deps.json
+/Users/hakkiayman/Desktop/VisualStudioCode/insertion-sort/bin/Debug/net5.0/insertion-sort.runtimeconfig.json
+/Users/hakkiayman/Desktop/VisualStudioCode/insertion-sort/bin/Debug/net5.0/insertion-sort.runtimeconfig.dev.json
+/Users/hakkiayman/Desktop/VisualStudioCode/insertion-sort/bin/Debug/net5.0/insertion-sort.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/insertion-sort/bin/Debug/net5.0/ref/insertion-sort.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/insertion-sort/bin/Debug/net5.0/insertion-sort.pdb
+/Users/hakkiayman/Desktop/VisualStudioCode/insertion-sort/obj/Debug/net5.0/insertion-sort.csproj.AssemblyReference.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/insertion-sort/obj/Debug/net5.0/insertion-sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakkiayman/Desktop/VisualStudioCode/insertion-sort/obj/Debug/net5.0/insertion-sort.AssemblyInfoInputs.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/insertion-sort/obj/Debug/net5.0/insertion-sort.AssemblyInfo.cs
+/Users/hakkiayman/Desktop/VisualStudioCode/insertion-sort/obj/Debug/net5.0/insertion-sort.csproj.CoreCompileInputs.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/insertion-sort/obj/Debug/net5.0/insertion-sort.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/insertion-sort/obj/Debug/net5.0/ref/insertion-sort.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/insertion-sort/obj/Debug/net5.0/insertion-sort.pdb
+/Users/hakkiayman/Desktop/VisualStudioCode/insertion-sort/obj/Debug/net5.0/insertion-sort.genruntimeconfig.cache
